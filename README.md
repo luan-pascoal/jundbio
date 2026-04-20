@@ -1,6 +1,6 @@
 # JundBio - Conectando Pessoas e Natureza na Serra do Japi
 
-![Logo JundBio](assets/logo.png) JundBio é uma plataforma web dedicada à documentação, visualização e preservação da rica biodiversidade da Serra do Japi, localizada em Jundiaí, São Paulo. O projeto visa criar uma comunidade engajada de entusiastas da natureza, pesquisadores e especialistas, facilitando o compartilhamento de informações, avistamentos de espécies e promovendo a conscientização ambiental.
+![Logo JundBio](assets/logo.png)  JundBio é uma plataforma web dedicada à documentação, visualização e preservação da rica biodiversidade da Serra do Japi, localizada em Jundiaí, São Paulo. O projeto visa criar uma comunidade engajada de entusiastas da natureza, pesquisadores e especialistas, facilitando o compartilhamento de informações, avistamentos de espécies e promovendo a conscientização ambiental.
 
 ## 🌿 Sobre o Projeto
 
